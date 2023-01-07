@@ -17,5 +17,7 @@ public class ForLoop06 {
             s = s/10;
     }
         System.out.println(i);
+        System.out.println("merhaba");
+
 }
 }
